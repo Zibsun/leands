@@ -9,4 +9,4 @@
 - Some more staff
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[Getting Started](#quickstart)
