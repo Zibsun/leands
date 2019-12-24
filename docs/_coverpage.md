@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# leands <small>0.0.1</small>
+# Lean DS <small>4.10.2</small>
 
 > A magical documentation site generator.
 
@@ -9,4 +9,4 @@
 - Some more staff
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#quickstart)
+[Getting Started](#docsify)
