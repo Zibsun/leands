@@ -1,4 +1,4 @@
-## Lean DS
+## Lean DS (0.0.1)
 
 > Process Framework for Data Science projects and products
 

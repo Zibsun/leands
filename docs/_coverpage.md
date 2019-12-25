@@ -1,6 +1,6 @@
 ![logo](_media/icon.svg)
 
-# Lean DS <small>1.1.1.1.1</small>
+# Lean DS <small>1.1.1.1.2</small>
 
 > A magical documentation site generator.
 
