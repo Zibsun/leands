@@ -1,12 +1,12 @@
-![logo](_media/icon.svg)
+![logo](_media/kanban.ico)
 
-# Lean DS <small>1.1.1.1.2</small>
+# Lean Data Science<small>0.0.1</small>
 
-> A magical documentation site generator.
+> Process Framework for Data Science Teams
 
-- Lean Data Science Process Framework
-- Collaborative
-- Some more staff
+* Free to use
+* Collaborative
+* Based on Kanban
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+[GitHub](https://github.com/leands/kb/)
+[Getting Started](quickstart.md)
