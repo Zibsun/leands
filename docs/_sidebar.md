@@ -1,16 +1,13 @@
-- Getting started
 
-  - [Quick start](quickstart.md)
-  - [Lean DS Principles](principles.md)
+- Introduction
 
-- Process
+  - [What is LeanDS?](quickstart.md)
 
-  - [Workflow](kanban.md)
-  - [Limiting WIP](wip.md)  
-  - [Roles and Responsibilities](roles.md)
+- Managing Product
 
-- Practices
-
-  - [Product Management](productmanagement.md)
-
-- [Changelog](changelog.md)
+  - [AI Canvas](aicanvas.md)
+  - [Story Mapping](storymapping.md)
+  - [Hypotheses](hypotheses.md)  
+  - [ICE Prioritization](prioritization.md)  
+  - ["Mercedes" Decomposition](mercedes.md)
+  - [Questions](questions.md)

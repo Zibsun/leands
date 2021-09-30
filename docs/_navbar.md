@@ -1,3 +1,4 @@
+- [leands.ai](https://leands.ai)
 - Translations
   - [:uk: English](/)
   - [:ru: Russian](/ru/)
