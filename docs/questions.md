@@ -32,3 +32,27 @@
 2. How do the subject matter experts solve this problem these days?
 3. Should the model be interpretable?
 4. Do we need independent external model validation?
+
+## Example Questions and Answers
+
+Let’s examine several question-and-answer examples for the product hypothesis decomposition.
+
+**How will the service work when we deploy the model to production?**
+
+> The model should interact with its environment somehow. Do we understand how we will integrate it with the existing products? For instance, we have a user story "Suggestion selection interface." For it to work, the current interface should send the model questions and get the suggested answer in return. Is there a sticky note for this integration on the board? If not, we should add it as a Technical task.
+
+**Should the model be interpretable?**
+
+> If the model should be interpretable, we cannot use CNN and LSTM in it. So, these hypotheses must be replaced with interpretable ones.
+
+**Do we have enough training data?**
+
+> If there is insufficient training data, the whole decomposition becomes irrelevant. It is super-critical, and we will place it in the very center of RAT.
+
+**How do the subject matter experts solve this problem these days?**
+
+> We jotted down many very complex models that may require a substantial amount of time. Do we know how others deal with our problem? There may be a straightforward, effective method we could use as a baseline.
+
+**Could we use public data?**
+
+> For some problem types, like NLP, external public data might be incredibly beneficial and would significantly improve your results. Are we aware of such datasets? How can we get and use them? If applicable, add these questions to the board, too.

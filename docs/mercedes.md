@@ -109,8 +109,7 @@ Discuss and redistribute your hypotheses between these three categories. Do your
 
 ## Step #3. The Analysis of Risk Checklists
 
-Risk management means we identify and mitigate risks we would have to deal with later, at the early stages of the project.
-To help DS teams, the LeanDS community collected a set of typical questions to identify these risks.
+Risk management means we identify and mitigate risks we would have to deal with later, at the early stages of the project. To help DS teams, the LeanDS community collected a [set of typical questions to identify these risks](questions.md).
 
 Examine the list with your team and try to answer each one using the following options:
 
@@ -119,3 +118,21 @@ Examine the list with your team and try to answer each one using the following o
 * The question is relevant, and the answer is not clear. Place a sticky note on it.
 
 ![Example Questions](_images/merce-example2.png)
+
+## Mercedes Method Benefits
+
+* The team, stakeholders, and subject matter experts plan together and share their project vision and faith in success.
+* The team generates good ideas dealing with arising problems because everyone understands them and their effect.
+* The team has a risks list. By working through it early enough, you can avoid or at least alleviate most of the damage.
+* RAT/MVP enforces the fast validation of critical and the riskiest hypotheses.
+* The plan decomposition allows you the work in parallel and speeds up the project.
+
+## Mercedes Approach Hints
+
+* Supplement the risks question list with the problems relevant to your subject and business area.
+* The session results in a set of titles. One needs to formalize them into hypotheses of the form "We assume... " and place them into the product backlog.
+* Add risks to the backlog if they require team involvement.
+* Keep the plan relevant. Go back to the review and update it as you go.
+* The Mercedes session takes about one hour. Its review is usually quicker.
+
+?> This book is the first written statement of Mercedes's approach for ML projects decomposition in the history of humankind.
