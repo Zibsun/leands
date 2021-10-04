@@ -16,8 +16,6 @@ It's not time yet. One must synchronize all the stakeholders' expectations. If w
 
 Let's discuss our inputs and expectations now! To hold this meeting, we will use AI Canvas.
 
-AI Canvas lays out an AI project’s key assumptions  in a one-page concept template (vision).
-
 !> AI Canvas lays out an AI project’s key assumptions  in a one-page concept template (vision).
 
 ## AI Canvas Structure
