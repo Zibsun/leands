@@ -2,7 +2,7 @@
 
 ## Where to Begin?
 
-The backlog is full of fascinating product hypotheses. Which one should you pick? The most profitable, of course. But how can you decide which is the most lucrative?
+The backlog is full of fascinating product hypotheses. Which one should you pick? The most valuable, of course. But how can you decide which is the most lucrative?
 
 What about asking the business team?
 
@@ -15,7 +15,7 @@ Let's assume:
 * the best hypothesis can bring $1 million and requires nine months.
 * the following three can get $0.5 million and require three months each.
 
-You can do three simple ones in nine months and earn $1.5 million instead of one with $1 million. Let’s not forget that we are talking about hypotheses with limited chances for success. These chances should also be part of the equation.
+You can do three simple ones in nine months and earn $1.5 million instead of one with $1 million. Let's not forget that we are talking about hypotheses with limited chances for success. These chances should also be part of the equation.
 
 ## ICE prioritization method
 
@@ -33,15 +33,15 @@ Impact measures outcome from a business perspective.
 
 Often, we can't calculate it in dollars because:
 
-* We don’t have enough data.
-* A hypothesis doesn’t inherently generate value but paves the way to another.
+* We don't have enough data.
+* A hypothesis doesn't inherently generate value but paves the way to another.
 * A business value may be indirect, like new markets penetration or meeting some government regulatory requirements.
 
 We can, however, easily estimate the value of one hypothesis over another.
 
-This is why relative units are so convenient.
+Let's use relative units instead of money.
 
-Most of the time, it’s a simple set of categories with relative values, like in the table below.
+Most of the time, it's a simple set of categories with relative values, like in the table below.
 
 |     Category    |     Impact     (value points)    |
 |-----------------|----------------------------------|
@@ -51,24 +51,24 @@ Most of the time, it’s a simple set of categories with relative values, like i
 |     Low         |                0.5               |
 |     Very low    |                0.25              |
 
-This is how you proceed:
+Here is how you proceed:
 
-1. Pick a hypothesis with an average impact to set the baseline. This is "Medium" with impact 1.
+1. Pick a hypothesis with an average impact to set the baseline. It is "Medium" with impact 1.
 2. Estimate the rest relative to the baseline you set. If another hypothesis is twice as valuable, its Impact is 2. If it is two times less valuable, its Impact is 0.5. A high-value hypothesis may reach 3, and so on.
 
 ## Effort
 
-Effort estimates how much effort a hypothesis would require.
+Effort estimates how much work a hypothesis would require.
 
-It may be hard to estimate exact labour costs for many reasons:
+It may be hard to estimate exact labor costs for many reasons:
 
 * Insufficient data exist for precise estimation.
 * We don't know what difficulties we would face along the way.
-* Team member perspectives may vary greatly. For instance, junior and seasoned Data Scientist estimates may differ several times.
+* Team member perspectives may vary significantly. For instance, junior and seasoned Data Scientist estimates may differ several times.
 
 As with Impact, it boils down to relative units, too. Some books call them Story Points.
 
-To avoid excessive discussions, like 5 points or 6, many prefer progressive scales based on Fibonacci or geometric series.
+Many prefer progressive scales based on Fibonacci or geometric series to avoid excessive discussions, like 5 points or 6.
 
 The steps are the same as Impact. Pick a baseline hypothesis that is straightforward to implement and assign it one story point. If another seems twice as hard, make it a 2. And so on.
 
@@ -89,13 +89,13 @@ Once again, it is best to use a fixed set of categories for different levels of 
 
 ## Hypotheses Prioritization Session
 
-Every stakeholder and team member may have a different Confidence and opinion about Efforts and Impact for each item in the backlog. A joint session will help to get everyone on the same page. There are many ways to do that. Planning Poker is one of the interesting ones:
+Every stakeholder and team member may have a different opinion about Confidence, Efforts, and Impact for each item in the backlog. A joint session will help to get everyone on the same page. There are many ways to do that. Planning Poker is one of the interesting ones:
 
 ![Planning Poker Cards](_images/prioritization-pokercards.png)
 
 Let's see how it might work with Efforts.
 
-1. First, players pick the baseline hypothesis (ideally, a straightforward one). Assign 1 Story Point to it.
+1. First, players pick the baseline hypothesis (ideally, the most simplistic to implement). Assign 1 Story Point to it.
 2. Everyone gets the deck with a Fibonacci series.
 3. A host announces the following hypothesis.
 4. Players estimate how much the hypothesis differs from the base one and place an appropriate card face-down on the table.
@@ -108,7 +108,7 @@ Impact and Confidence are processed similarly. Then, the team calculates Scores 
 
 ## RICE Score
 
-It may be beneficial to split Impact into a Reach and Impact product, which results in the following formula:
+It may be beneficial to split Impact into a product of Reach and Impact, which results in the following formula:
 
 ![RICE Formula](_images/prioritization-rice.png)
 
@@ -116,24 +116,24 @@ It may be beneficial to split Impact into a Reach and Impact product, which resu
 
 **Impact** — estimates business value brought by a single point of Reach.
 
-For example, if you sell Data Products to banks, Impact estimates your hypothesis effect on a particular bank. Let's say one bank strongly needs your solution. So, Impact = 3. Another hypothesis would be Impact = 1, but there are three banks in need of it. Assuming Reach is proportional to the number of banks interested in each solution, Reach and Impact are different in these cases. But their product in the formula affects both scores equally.
+Let's say you sell Data Products to banks. Then Impact is an estimate of the influence of the hypothesis on a particular bank. For example, one hypothesis may be essential, and its Impact = 3. The Impact of another hypothesis is 1. However, the market (proportional to the number of banks that can potentially be interested in the related data product) for the first hypothesis is large and is equal to 3, and for the other hypothesis, the market is three times less and equal to 1.
 
 ## Prioritization Hints
 
 * Invite the DS team. Joint discussions about Impact and Reach with the stakeholders will ensure in-depth understanding, inspire, and facilitate better decisions along the way.
-* The DS team may resist participating. The prioritization makes no sense without a proper Effort estimation. And their presence is crucial for it.
-* You may still discover later that the prioritization or a particular score was incorrect. Although this process isn't perfect, it maximizes the chances of success in the long run.
+* The DS team may resist participating. Explain that the prioritization makes no sense without a proper Effort estimation, and their presence is crucial.
+* You may still discover later that the prioritization or a particular score was incorrect. It's OK. Although this process isn't perfect, it maximizes the chances of success in the long run.
 * Only hands-on implementers may participate in Effort estimation. Business stakeholders usually lowball an estimate.
 
 ## Prioritization Approach Development
 
-Approach prioritization in your company will develop with time. Here are the few potential directions for that:
+The approach to prioritization in your company will develop with time. Here are the few potential directions for that:
 
 * Split the Confidence into Confidence from the business perspective and technical feasibility.
-* Standardize the Confidence scale with a set of criteria. For example, there are similar cases in your country, successful A/B tests, and a complete business model. These factors increase Confidence.
+* Standardize the Confidence scale with a set of criteria. You might have factors that increase the Confidence of a hypothesis: confirmed similar cases in your country, successful A/B tests, or a business case.
 * A similar scale works with Impact.
 
-Sometimes, senior staff may try to intervene and devalue the teamwork by altering the priorities you chose. Invite them to the next prioritization session. Rather than solely deciding on specific hypotheses’s Impact or Confidence, they will have to sell their ideas to the team.
+Sometimes, senior staff may try to intervene and devalue the teamwork by altering the priorities you chose. Invite them to the next prioritization session. Rather than solely deciding on specific hypotheses' Impact or Confidence, they will have to sell their ideas to the team.
 
 ![Prioritization Meme](_images/prioritization-meme.png)
 
@@ -141,16 +141,17 @@ Sometimes, senior staff may try to intervene and devalue the teamwork by alterin
 
 * It maximizes business revenue.
 * It rules out irrelevant and unrealistic projects.
-* It secures stakeholders’ support for the priorities you choose.
+* It secures stakeholders' support for the priorities you choose.
 
-## When you don’t need ICE/RICE
+## When you don't need ICE/RICE
 
 ICE/RICE is geared towards product hypotheses only. Data and method hypotheses have no value on their own and require a different approach described in the chapter on product hypotheses decomposition.
 If your team has only a few product hypotheses, let's say 1-3, the full-fledged prioritization may be overkill.
 
 ## When you may benefit from ICE/RICE
 
-On the team level, if you have many product hypotheses in the backlog.
-On the organizational level, when prioritization will help assigning hypotheses from a backlog shared by two or more teams.
+To prioritize, you need a lot of hypotheses. Usually, the team works on a small set of product hypotheses since they take a very long time to implement. However, as soon as the model gets into production, its improvement is not so laborious, and the number of hypotheses in the backlog can become significant. And the team can then use the ICE method to prioritize.
 
-!> The ICE Approach was invented by Sean Ellis, author of the term Growth Hacking.
+One can use ICE at the level of the entire organization. You can have hundreds of ideas for applying ML in your company, and ICE would allow you to select the best ideas and hand them over to the data teams.
+
+!> The ICE Approach has been coined by Sean Ellis, author of the term Growth Hacking.

@@ -20,7 +20,7 @@ You need to design all parts of this equation and how they will interact with ea
 
 ## Designing a Product With a User Story Map
 
-An ML product design meeting requires all the stakeholders’ involvement.
+An ML product design meeting requires all the stakeholders' involvement.
 
 !> Story Mapping results in a project or a product map in the form of a set of User Stories.
 
@@ -39,7 +39,7 @@ You would need 1-3 meetings to create a Story Map. Typically, the following step
 
 * **Roles/personas**. Start with describing User roles (personas). Take sticky notes and write down Actors working with the product: end-users, moderators, agents, etc.
 * **User goals**. Write down several User Goals on separate sticky notes for the main actor.
-* **User Tasks**. Describe every Goal as a list of several User Tasks leading to it, where each task can be seen as a step in a business process.
+* **User Tasks**. Describe every goal as a list of several User Tasks leading to it, where each task can be seen as a step in a business process.
 * **Walking Skeleton**. Under each User Task, place a sticky note describing the simplest way to implement a functionality allowing a user to perform the task.
 * **User Stories**. When the Walking Skeleton is complete, place all the improvements and additional product functionality on the lines below.
 * **Technical Tasks**. Next, expand your Story Map with items describing infrastructure changes and general backend development.
@@ -63,20 +63,20 @@ Also, we discovered three risks we must also address at some point.
 ## Story Map Hints
 
 * If your business process is non-linear, you may be tempted to enhance User tasks or other parts with additional arrows or in some other way. Don't do that. It will only waste your time and make the diagram harder to read. Instead, treat each section as if you're telling a simple story.
-* Sometimes business processes' parts may repeat each other (for instance, for different Actors). Rather than duplicate sticky notes on the following Actor diagram, just indicate differences.
-* A Walking Skeleton is a technical foundation for your product. It will help discover most of the trouble spots. But don't confuse it with MVP since it is unlikely good enough to be used by end users.
+* Sometimes business processes' parts may repeat each other (for instance, for different Actors). Rather than duplicate sticky notes on the following Actor diagram, indicate differences.
+* A Walking Skeleton is a technical foundation for your product. It will help discover most of the trouble spots. But don't confuse it with MVP since it is unlikely good enough to be used by end-users.
 * Walking Skeleton is a starting point for improving the product incrementally.
 * Prioritize layers from top to bottom. Separate your releases on a board with horizontal lines.
-* Your Story Map is a crucial component of your product design. Its creation may take from few hours to few days for a complex product. And that’s fine.
+* Your Story Map is a crucial component of your product design. Its creation may take from a few hours to a few days for a complex product. And that's fine.
 * Some of your stakeholders may be unable to attend. Review the Story Map with them when it is finished.
 * Your story map will evolve as you build the product and collect feedback. You may want to recreate it, for instance, with every new release.
-* Too much details at the bottom of the map is a waste of time. Your perspective will change more than once during the project, making the next release the one that matters most.
+* Too many details at the bottom of the map is a waste of time. Your perspective will change more than once during the project, making the next release the one that matters most.
 
 !> You might find out that the first few releases of the product do not have any ML.
 
 ## When a Story Map May Be Helpful
 
-* When we need to build a product where ML is a critical part — but not the only one.
+* When we need to build a product where ML is critical, but not the only one.
 * When ML significantly changes existing business process.
 * When we want to identify opportunities for applying ML in a company. In this case, we build Story Map for business processes.
 
@@ -99,6 +99,6 @@ Often, it only takes a meeting and a bunch of sticky notes. The session can also
 
 ## About Story Mapping
 
-?> Initially, it was formulated and popularized by Jeff Patton in [his book “User Story Mapping”](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/B08TZGKKF2). It turned out to be surprisingly convenient for product design. We refined it for ML by adding a few finishing touches and the AI hypothesis generation step.
+?> Initially, it was formulated and popularized by Jeff Patton in [his book "User Story Mapping"](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/B08TZGKKF2). It turned out to be surprisingly convenient for product design. We refined it for ML by adding a few finishing touches and the AI hypothesis generation step.
 
 ![User Story Mapping Book](_images/storymap-book.png)

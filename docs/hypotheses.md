@@ -2,24 +2,24 @@
 
 ## A Problem We Solve
 
-Data Scientist Joe embarked on a new model a week ago. He stays up late and looks swamped. Let’s assign him another task.
-
-Let's see how a perfect assignment for a Data Scientist should look. Below are two tasks with the typical wording one might find in a task tracker:
-
-> Look into the dialog module of the chat-bot.
-
-> Debug kNN model.
+Joe is a Data Scientist. He has been working on a new model for a few days already. Joe stays up late and looks swamped. Probably he needs a task to be assigned, doesn't he?
 
 ![Chat](_images/hypothesis-chat.png)
 
-## What’s wrong?
+Below are two tasks with the typical wording one might find in a task tracker:
 
-* The assumption that the person in charge knows all the details. 
+?> Look into the dialog module of the chat-bot.
+
+?> Debug kNN model.
+
+What's wrong with the statements?
+
+* The assumption that the responsible person knows all the details. 
 * The statement doesn't convey the business value.
 * There are no criteria for success.
-* It’s unclear how to test it.
-* It’s unclear how to evaluate it.
-* It's hard to say how urgent it is.
+* It's unclear how to test them.
+* It's unclear how to evaluate them.
+* It's hard to say how urgent they are.
 * The description is not informative for the rest of the team.
 * The task is unclear for business and other stakeholders.
 
@@ -28,7 +28,7 @@ Let's see how a perfect assignment for a Data Scientist should look. Below are t
 * Stakeholders and business customers see no value in the meetings since they don't understand the purpose beyond it all.
 * Team members are busy bees. They encounter increasingly intriguing but not critical problems along the way. That delays timelines and makes situations unpredictable.
 * A great workaround is obvious. But a stakeholder who could point it out is not involved in the context.
-* Task reviews by other team members are cosmetic since they don’t include enough details. At best, it may be a code review but not an approach evaluation.
+* Task reviews by other team members are cosmetic since they don't include enough details. At best, it may be a code review, but they can not evaluate an approach.
 
 ![Data Science Team communicates with customers](_images/hypothesis-meme.png)
 
@@ -36,24 +36,23 @@ Let's see how a perfect assignment for a Data Scientist should look. Below are t
 
 Another way to describe tasks is to formulate tasks explicitly as hypotheses.
 
-
 We will examine three types of hypotheses:
 
 ![Types of Hypotheses](_images/hypothesis-types.png)
 
 * **Product hypothesis**: An assumption that a specific change would generate value for a business.
 * **Data hypothesis**: An assumption that additional data would improve a specific metric.
-* **Method hypothesis**: An assumption that a specific method would improve a particular metric.
+* **Method hypothesis**: An assumption that a specific method would improve a specific metric.
 
 ## Product Hypothesis
 
-A product hypothesis usually includes several data and method hypotheses.
+A product hypothesis usually breaks down into several data and method hypotheses.
 
 To form a Product Hypothesis, answer four questions:
 
 * What problem do we solve? (the problem)
 * What will we change? (the solution)
-* Who will be affected? (the stakeholders)
+* Who will be affected? (the customer)
 * Which metric would measure the impact? (the metric)
 
 Template:
@@ -62,9 +61,9 @@ Template:
 
 Example:
 
-?> We expect **to cut the costs** of **agents working with the mass-market segment** by **implementing automatic clients’ classification**, which would **increase the share of satisfied clients per agent to 10%**.
+?> We expect **to cut the costs** of **agents working with the mass-market segment** by **implementing automatic clients' classification**, which would **increase the share of satisfied clients per agent to 10%**.
 
-Pay attention to the wording "we expect“. It informs a business customer and stakeholders that we are running an experiment rather than fulfilling an obligation.
+Pay attention to the wording "we expect. " It informs a business customer and stakeholders that we are running an experiment rather than fulfilling an obligation.
 
 A hypothesis formulation doesn't specify the way to reach the goal.
 
@@ -95,9 +94,9 @@ Example:
 
 ## Acceptance Criteria
 
-Each complete hypothesis requires acceptance criteria. It's a requirements checklist one should fulfil to consider a particular hypothesis processing complete. 
+Each complete hypothesis requires acceptance criteria. It's a requirements checklist one should fulfill to consider a particular hypothesis processing complete. 
 
-The acceptance criteria list is a part of the preliminary analysis. It helps the team ensure the processes’ quality and chart its path before the validation job begins.
+The acceptance criteria list is a part of the preliminary analysis. It helps the team ensure the processes' quality and chart its path before the validation job begins.
 
 ### Example
 
@@ -118,7 +117,7 @@ New hypothesis:
 
 ?> Using clustered users' questions with the Naive Bayes Model will ensure TOP5 answers suggestion accuracy will be 50% or more.
 
-Joe works on a new hypothesis. He asks to shift the timeline by a week. Why the delay? He can't reach target metrics and wants to try another method. You look at the acceptance criteria and agree that this is a new method, which implies a new method hypothesis. So, rather than pouncing on it, you can describe it and add it to the backlog.
+Joe works on a new hypothesis. He asks to shift the timeline by a week. Why the delay? He can't reach target metrics and wants to try another method. You look at the acceptance criteria and agree that this is a new method, implying a new method hypothesis. So, rather than pouncing on it, you can describe it and add it to the backlog.
 
 Even for a moment, we don't concede that Joe is so into the new article that he completely abandoned the linear model. He is not that guy. But what if he missed something, and the linear model might work well? Joe should finish with the checklist:
 
@@ -143,5 +142,5 @@ This will allow the team to discuss the new hypothesis, formulate Acceptance Cri
 
 ## When There is No Need for DS-hypotheses
 
-* If the product hypothesis is small (less than a person/week), don’t split it into several smaller ones.
-* If data and method hypotheses don't require too much time to validate (few hours or less), the team may decide to do them all at once.
+* If the product hypothesis is small (less than a person/week), don't split it into several smaller ones.
+* If data and method hypotheses don't require too much time to validate (a few hours or less), the team may decide to do them all at once.
