@@ -1,6 +1,6 @@
 # Lean DS Community
 
-The Lean Data Science community has existed since 2019. It develops flexible approaches to DS project and product management.
+The Lean Data Science community has existed since 2019. It develops lean and agile approaches to Data project and product management.
 
 The community goal is to create the approaches to build efficient and continuously self-improving delivery processes for high-quality DS products.
 
