@@ -21,7 +21,7 @@ You can do three simple ones in nine months and earn $1.5 million instead of one
 
 The idea is to evaluate each hypothesis with the formula:
 
-![Formula](_images/prioritization-formula.png)
+![ICE Formula](_images/prioritization-formula.png)
 
 The higher the score, the higher the priority.
 

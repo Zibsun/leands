@@ -20,7 +20,7 @@ Let's discuss our inputs and expectations now! To hold this meeting, we will use
 
 ## AI Canvas Structure
 
-AI Canvas consists of 9 blocks. Each block addresses a critical question to answer before the project starting the project.
+AI Canvas consists of 10 blocks. Each block addresses a critical question to answer before starting the project.
 
 Fill the blocks with project ideas written on sticky notes during the kick-off meeting.
 
@@ -64,7 +64,7 @@ So, you have held a meeting and revealed a handful of interesting facts:
 
 What happened? You revealed the critical risks you need to eliminate before embarking upon the project's execution.
 
-![AI Canvas Structure](_images/aicanvas-structure.png)
+![AI Canvas Example](_images/aicanvas-example.png)
 
 ## When AI Canvas is a Good Idea
 
