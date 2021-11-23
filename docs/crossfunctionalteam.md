@@ -13,7 +13,7 @@ Two months later. BE finished with the infrastructure, but the model is not read
 
 Suddenly, DS gets results, and they are exciting. The model is ready. But BE is still on that project and needs a bit more time. DS isn't the guy the world wants idle, either.
 
-![Typical Dialog](_images/crossfunctionalteam-dialog.png)
+![Chat](_images/crossfunctionalteam-dialog.png)
 
 BE became available and began to automate the model. He has a few questions. The data is slightly out-of-date, and DS needs to redesign it. But he is still busy. No problem; there is a new project for BE already.
 

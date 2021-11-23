@@ -58,7 +58,7 @@ We split it up into five releases:
 
 Also, we discovered three risks we must also address at some point.
 
-![Story Map](_images/storymap-example.png)
+![Story Map Example](_images/storymap-example.png)
 
 ## Story Map Hints
 
@@ -101,4 +101,4 @@ Often, it only takes a meeting and a bunch of sticky notes. The session can also
 
 ?> Initially, it was formulated and popularized by Jeff Patton in [his book "User Story Mapping"](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/B08TZGKKF2). It turned out to be surprisingly convenient for product design. We refined it for ML by adding a few finishing touches and the AI hypothesis generation step.
 
-![User Story Mapping Book](_images/storymap-book.png)
+![User Story Mapping](_images/storymap-book.png)

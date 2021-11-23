@@ -4,7 +4,7 @@ You identify the problem in your way of work. You develop a rule that facilitate
 
 You can write such a rule as an Explicit Policy. It is a checklist answering the question: «Can we move the ticket to the next column?»
 
-![Dialog](_images/explicitpolicy-dialog.png)
+![Chat](_images/explicitpolicy-dialog.png)
 
 ## Explicit Policies Examples
 

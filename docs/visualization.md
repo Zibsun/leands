@@ -59,6 +59,6 @@ The tasks checklist is a ticket work to-do list. It is not necessary to plan eve
 
 Checklists can be discussed with any team member, which increases transparency and engagement.
 
-## Trello ticket example
+## Ticket example
 
-![Task handoff](_images/vizualization-ticket.png)
+![Ticket Example](_images/vizualization-ticket.png)

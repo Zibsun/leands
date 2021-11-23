@@ -49,21 +49,20 @@ If you lack sufficient information on a subject, place a sticky note question.* 
 * A critical stakeholder missed the meeting? Don't worry. Reach out to him and validate all the results later.
 * If you complete an AI Canvas and discover that the project makes no sense — celebrate that! You saved time for other projects and evaded demotivation from needless work.
 
-![AI Canvas Structure](_images/aicanvas-meme.png)
+![Change my mind!](_images/aicanvas-meme.png)
 
 ## AI Canvas Example
 
 So, you have held a meeting and revealed a handful of interesting facts:
 
-> The business team thought the bot should answer 80% of the questions, while, at least this year, you estimate this number as 15%.
-COO is against premium segment automation, which leaves you with the mass market segment only.
-The mass-market segment staff consists of 15 agents. You can reduce the headcount by 2 or 3. Does this optimization even justify the project?
-COO wants to speed up the answers to reduce the churn.
-The CRM team skipped the meeting. They are too busy transitioning to a new system and not ready to integrate now.
+* The business team thought the bot should answer 80% of the questions, while, at least this year, you estimate this number as 15%.
+* COO is against premium segment automation, which leaves you with the mass market segment only.
+* The mass-market segment staff consists of 15 agents. You can reduce the headcount by 2 or 3. Does this optimization even justify the project?
+* COO wants to speed up the answers to reduce the churn.
+* The CRM team skipped the meeting. They are too busy transitioning to a new system and not ready to integrate now.
+* You agreed to elaborate on three questions and decided to meet again in a week.
 
-You agreed to elaborate on three questions and decided to meet again in a week.
-
-What happened just now? You revealed the critical risks you need to eliminate before embarking upon the project's execution.
+What happened? You revealed the critical risks you need to eliminate before embarking upon the project's execution.
 
 ![AI Canvas Structure](_images/aicanvas-structure.png)
 
@@ -91,4 +90,4 @@ Why is an AI Canvas better than a traditional project vision? Let an analyst wri
 * Some stakeholders' perspectives may differ significantly. You will still need a meeting to handle that.
 * The formal requirements specification can follow an AI Canvas once it is complete.
 
-?> The original idea to use canvases instead of documents belong to Alex Osterwalder. He used Business Model Canvases to create business models of organizations. Jan Zawadski put forward AI Canvas in this article: https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024
+?> The original idea to use canvases instead of documents belong to Alex Osterwalder. He used Business Model Canvases to create business models of organizations. Jan Zawadski put forward [AI Canvas in this article](https://towardsdatascience.com/introducing-the-ai-project-canvas-e88e29eb7024)

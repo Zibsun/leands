@@ -39,9 +39,7 @@ Often, we can't calculate it in dollars because:
 
 We can, however, easily estimate the value of one hypothesis over another.
 
-Let's use relative units instead of money.
-
-Most of the time, it's a simple set of categories with relative values, like in the table below.
+Let's use relative units instead of money. Most of the time, it's a simple set of categories with relative values, like in the table below.
 
 |     Category    |     Impact     (value points)    |
 |-----------------|----------------------------------|
@@ -135,7 +133,7 @@ The approach to prioritization in your company will develop with time. Here are 
 
 Sometimes, senior staff may try to intervene and devalue the teamwork by altering the priorities you chose. Invite them to the next prioritization session. Rather than solely deciding on specific hypotheses' Impact or Confidence, they will have to sell their ideas to the team.
 
-![Prioritization Meme](_images/prioritization-meme.png)
+![Prioritization](_images/prioritization-meme.png)
 
 ## ICE/RICE benefits
 
@@ -145,8 +143,7 @@ Sometimes, senior staff may try to intervene and devalue the teamwork by alterin
 
 ## When you don't need ICE/RICE
 
-ICE/RICE is geared towards product hypotheses only. Data and method hypotheses have no value on their own and require a different approach described in the chapter on product hypotheses decomposition.
-If your team has only a few product hypotheses, let's say 1-3, the full-fledged prioritization may be overkill.
+ICE/RICE is geared towards product hypotheses only. Data and method hypotheses have no value on their own and require a different approach described in the chapter on product hypotheses decomposition. If your team has only a few product hypotheses, let's say 1-3, the full-fledged prioritization may be overkill.
 
 ## When you may benefit from ICE/RICE
 

@@ -4,7 +4,7 @@
 
 Joe is a Data Scientist. He has been working on a new model for a few days already. Joe stays up late and looks swamped. Probably he needs a task to be assigned, doesn't he?
 
-![Chat](_images/hypothesis-chat.png)
+![Chat with DS](_images/hypothesis-chat.png)
 
 Below are two tasks with the typical wording one might find in a task tracker:
 
@@ -23,7 +23,7 @@ What's wrong with the statements?
 * The description is not informative for the rest of the team.
 * The task is unclear for business and other stakeholders.
 
-## Where it might lead:
+## Where it might lead
 
 * Stakeholders and business customers see no value in the meetings since they don't understand the purpose beyond it all.
 * Team members are busy bees. They encounter increasingly intriguing but not critical problems along the way. That delays timelines and makes situations unpredictable.

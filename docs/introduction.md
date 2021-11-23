@@ -4,11 +4,11 @@ VentureBeat [states](https://venturebeat.com/2019/07/19/why-do-87-of-data-scien
 
 IT projects, on average, are faring better. According to Gartner, they fail 50% of the time, which means IT projects are at least getting into operation. The reasons for the failure include unachieved goals, budget overruns, or missed deadlines.
 
-![87% of DS projects never make it into production](_images/never2prod.png)
+![](_images/never2prod.png)
 
-!> Does it bite?
+!> 87% of DS projects never make it into production
 
-## Why does this happen?
+## Why data projects fail?
 
 This book explores the roadblocks causing AI projects to fail and how to improve their chances of success. Here are the roadblocks:  
 

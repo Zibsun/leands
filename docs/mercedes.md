@@ -20,7 +20,7 @@ Of course, we could consider these risks in advance and have saved a lot of time
 
 !> A plan should highlight the risks and help manage them. 
 
-![Meme](_images/merce-mem1.png)
+![Essence of Planning](_images/merce-mem1.png)
 
 !> The whole team should participate in the planning.
 
@@ -78,7 +78,7 @@ Other stakeholders may join as necessary:
 
 Draw three axes, as shown in the figure below:
 
-![Axes](_images/merce-axis.png)
+![Decomposition Axes](_images/merce-axis.png)
 
 ## Step 1. Hypothesis Brainstorming
 
@@ -92,7 +92,7 @@ Place the following sticky notes along the three axes together with your team:
 
 Here is how your result may appear:
 
-![Example](_images/merce-example.png)
+![Decomposition Example](_images/merce-example.png)
 
 ## Step #2. Proof of Concept/MVP
 
@@ -118,7 +118,7 @@ Examine the list with your team and try to answer each one using the following o
 * The question is irrelevant. Skip it
 * The question is relevant, and the answer is not clear. Place a sticky note on it.
 
-![Example Questions](_images/merce-example2.png)
+![Usage of Questions](_images/merce-example2.png)
 
 ## Mercedes Method Benefits
 
