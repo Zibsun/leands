@@ -15,7 +15,7 @@ Here are the rules of the meeting:
 * Everyone takes tasks to move them to the next column by the next stand up.
 * The team first focuses on the older tasks.
 
-Try shorten the stand-up to 15-20 minutes. It might seem like a challenging task. Over time, you will learn to make it even faster:
+Try to shorten the stand-up to 15-20 minutes. It might seem like a challenging task. Over time, you will learn to make it even faster:
 
 * You might start discussing every ticket on your early stand-ups. Later, you will learn to focus on blockers only as your team experience grows.
 * The team learns to work with a board outside the stand-up, identifying blockers, tagging statuses in comments, breaking down work into tasks, etc.

@@ -27,7 +27,7 @@ A few Sprints later, you notice several issues:
 * The team has a pile of unfinished work by the end of each Sprint and moves it to the next one.
 * Sometimes, the discovery nature of DS projects manifests itself, rendering the Sprint goal pointless and making finishing the Sprint pointless as well.
 
-Scrum doesn't work in Data Teams as it works in typical software engineeing teams.
+Scrum doesn't work in Data Teams as it works in typical software engineering teams.
 
 ## What is the Cause of These Problems?
 

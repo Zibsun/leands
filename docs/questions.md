@@ -43,7 +43,7 @@ Let's examine several question-and-answer examples for the product hypothesis de
 
 **Should the model be interpretable?**
 
-> If the model should be interpretable, we probablycannot use CNN and LSTM in it. So, these hypotheses must be replaced with interpretable ones.
+> If the model should be interpretable, we probably cannot use CNN and LSTM in it. So, these hypotheses must be replaced with interpretable ones.
 
 **Do we have enough training data?**
 

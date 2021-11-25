@@ -8,7 +8,7 @@ Joe is a Data Scientist. He has been working on a new model for a few days alrea
 
 Below are two tasks with the typical wording one might find in a task tracker:
 
-?> Look into the dialog module of the chat-bot.
+?> Look into the dialog module of the chatbot.
 
 ?> Debug kNN model.
 

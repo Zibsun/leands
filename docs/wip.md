@@ -36,6 +36,4 @@ The WIP limitation helps the team focus on finishing things by working together:
 * If one of the team members is overworked, there will be queues on the board. And again, the constraint will prevent us from ignoring them.
 * Anybody who finished their job will take on the highest priority next.
 
-![Blockers](_images/wip-illustration.png)
-
-Illustration from the cover of David Anderson's book, "Kanban: Successful Evolutionary Change for Your Technology Business"
+![Illustration from the cover of David Anderson's book, "Kanban: Successful Evolutionary Change for Your Technology Business"](_images/wip-illustration.png)
