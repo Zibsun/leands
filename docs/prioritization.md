@@ -72,11 +72,7 @@ The steps are the same as Impact. Pick a baseline hypothesis that is straightfor
 
 ## Confidence
 
-Confidence estimates the chance that the hypothesis is valid and its implementation will deliver the expected value.
-
-It's convenient to measure it in percents since it can't exceed 100%.
-
-Once again, it is best to use a fixed set of categories for different levels of Confidence.
+Confidence estimates the chance that the hypothesis is valid and its implementation will deliver the expected value. It's convenient to measure it in percents since it can't exceed 100. Use a fixed set of categories for different levels of Confidence.
 
 |     Category    |     Confidence    |
 |-----------------|-------------------|
@@ -147,7 +143,7 @@ ICE/RICE is geared towards product hypotheses only. Data and method hypotheses h
 
 ## When you may benefit from ICE/RICE
 
-To prioritize, you need a lot of hypotheses. Usually, the team works on a small set of product hypotheses since they take a very long time to implement. However, as soon as the model gets into production, its improvement is not so laborious, and the number of hypotheses in the backlog can become significant. And the team can then use the ICE method to prioritize.
+To prioritize, you need a lot of hypotheses. Usually, the team works on a small set of product hypotheses since they take a very long time to implement. However, as soon as the model gets into production, its improvement is not so laborious, and the number of hypotheses in the backlog can become significant. The team can then use the ICE method to prioritize.
 
 One can use ICE at the level of the entire organization. You can have hundreds of ideas for applying ML in your company, and ICE would allow you to select the best ideas and hand them over to the data teams.
 

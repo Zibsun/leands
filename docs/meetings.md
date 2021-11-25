@@ -1,4 +1,4 @@
-## Kanban Meetings
+# Kanban Meetings
 
 ## Stand-Up Meeting, aka Kanban-Meeting
 
