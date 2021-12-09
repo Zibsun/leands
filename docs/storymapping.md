@@ -14,7 +14,7 @@ What went wrong?
 
 Any project's ultimate goal is to help a business or an end-user. Most of the time, ML is an integral part of some bigger product. Apart from the model itself, such a product has many other components. Among others, it may have a user interface, interact with other products, and be deeply rooted in the IT ecosystem. Also, it must blend in with the company's business model and processes.
 
-![ML in a context](_images/storymap-around.png)
+![ML in context](_images/storymap-around.png)
 
 You need to design all parts of this equation and how they will interact with each other. The product backlog will be the final result of this work. It will include all the essential details, such as user stories for all the teams involved in the project.
 

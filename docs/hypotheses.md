@@ -121,17 +121,17 @@ Joe works on a new hypothesis. He asks to shift the timeline by a week. Why the 
 
 Even for a moment, we don't concede that Joe is so into the new article that he completely abandoned the linear model. He is not that guy. But what if he missed something, and the linear model might work well? Joe should finish with the checklist:
 
-* Add the code to the repository.
-* Compute all the metrics.
-* State all the findings.
-* Add the code to the repository.
-* Do the code review.
+* Add the code to the repository
+* Compute all the metrics
+* State all the findings
+* Add the code to the repository
+* Do the code review
 
 And so on.
 
 This will allow the team to discuss the new hypothesis, formulate Acceptance Criteria, and process it the right way.
 
-## Hypothesis-Based App
+## When you may benefit from hypothesis-based approach
 
 * A hypothesis helps to focus on the result.
 * Hypothesis-based work is easy to schedule and evaluate.

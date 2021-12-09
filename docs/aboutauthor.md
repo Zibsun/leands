@@ -1,4 +1,4 @@
-# About author
+# About the author
 
 ![Askhat Urazbaev](_images/me.png)
 
