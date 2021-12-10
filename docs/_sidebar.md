@@ -1,8 +1,9 @@
 
 - Introduction
 
-  - [What is LeanDS?](quickstart.md)
+  - [What is LeanDS?](README.md)
   - [About LeanDS](aboutleands.md)
+  - [Introduction](introduction.md)
 
 - Managing Product
 
