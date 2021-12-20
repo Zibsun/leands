@@ -1,4 +1,6 @@
-# Little's Law
+# Limiting Work in Progress
+
+## Little's Law
 
 Imagine being in line at Starbucks for a glass of your favorite drink (I prefer a cappuccino with coconut milk). There are ten people in the queue. About one person per minute leaves the cafe. How long before you get your drink? You'll have to wait about 10 minutes = ten people/one person per minute.
 

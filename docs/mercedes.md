@@ -108,6 +108,8 @@ To do that visually, let's add two concentric circles and split the chart into t
 
 Discuss and redistribute your hypotheses between these three categories. Do your best to minimize RAT and MVP. The closer the hypothesis is to the center, the higher its priority.
 
+![Areas](_images/merce-circles.png)
+
 ## Step #3. The Analysis of Risk Checklists
 
 Risk management means we identify and mitigate risks we would have to deal with later, at the early stages of the project. To help data teams, the LeanDS community collected a set of typical questions to identify these risks.

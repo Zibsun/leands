@@ -39,7 +39,7 @@ Joe creates a model. To visualize that, he attaches his avatar to the ticket whi
 * The hypothesis has no avatars when it is idle.
 * An avatar indicates responsibility. Appropriate person reports on the task at the stand-up.
 
-## Transfer
+## Pulling tasks
 
 Becky evaluates and integrates the models built by Data Scientists Joe and Tim. You can visualize that as follows. Divide the column into "In progress" and "Done". Hypotheses go to "In progress" when they start and to "Done" when they finish. It signals to Becky that she can proceed.
 
