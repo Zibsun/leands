@@ -1,8 +1,6 @@
 
 - Introduction
 
-  - [What is LeanDS?](README.md)
-  - [About LeanDS](aboutleands.md)
   - [Introduction](introduction.md)
 
 - Managing Product
@@ -30,3 +28,4 @@
 - Applying LeanDS
 
   - [LeanDS in Practice](inpractice.md)
+  - [About LeanDS Community](aboutleands.md)

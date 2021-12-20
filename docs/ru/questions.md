@@ -1,4 +1,4 @@
-# Mercedes Method Risks Checklist
+# Вопросы (Questions)
 
 ## Story questions
 

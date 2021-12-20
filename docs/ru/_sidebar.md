@@ -1,32 +1,31 @@
 
 - Introduction
 
-  - [Что такое LeanDS?](ru/README.md)
-  - [About LeanDS](ru/aboutleands.md)
-  - [Introduction](ru/introduction.md)
+  - [Введение](ru/introduction.md)
 
 - Managing Product
 
   - [AI Canvas](ru/aicanvas.md)
   - [Story Mapping](ru/storymapping.md)
-  - [Hypotheses](ru/hypotheses.md)  
-  - [ICE Prioritization](ru/prioritization.md)  
-  - ["Mercedes" Decomposition](ru/mercedes.md)
+  - [Гипотезы](ru/hypotheses.md)  
+  - [Приоритизация ICE/RICE](ru/prioritization.md)  
+  - [Декомпозиция методом «Мерседеса»](ru/mercedes.md)
   - [Questions](ru/questions.md)
 
 - Managing Process
 
-  - [Cross-Functional Team](ru/crossfunctionalteam.md)
-  - [Selecting Approach](ru/selectingapproach.md)  
-  - [About Kanban](ru/kanban.md)  
-  - [Work Visualization](ru/visualization.md)
-  - [Work Items](ru/workitems.md)
-  - [WIP Limits](ru/wip.md)      
-  - [Urgent Tasks](ru/urgenttasks.md)        
-  - [Explicit Policies](ru/explicitpolicies.md)          
-  - [Kanban Meetings](ru/meetings.md)            
-  - [Workflow Management](ru/workflowmanagement.md)
+  - [Кроссфункциональная команда](ru/crossfunctionalteam.md)
+  - [Выбор подхода](ru/selectingapproach.md)  
+  - [О канбане](ru/kanban.md)  
+  - [Визуализация работ](ru/visualization.md)
+  - [Типы работ](ru/workitems.md)
+  - [Ограничение WIP](ru/wip.md)      
+  - [Срочные задачи](ru/urgenttasks.md)        
+  - [Явные политики](ru/explicitpolicies.md)          
+  - [Встречи в канбан](ru/meetings.md)            
+  - [Управление потоком работ](ru/workflowmanagement.md)
 
 - Applying LeanDS
 
-  - [LeanDS in Practice](ru/inpractice.md)
+  - [Практическое использование LeanDS](ru/inpractice.md)
+  - [О сообществе LeanDS](ru/aboutleands.md)
