@@ -98,7 +98,7 @@ Each complete hypothesis requires acceptance criteria. It's a requirements check
 
 The acceptance criteria list is a part of the preliminary analysis. It helps the team ensure the processes' quality and chart its path before the validation job begins.
 
-### Example
+**Example**
 
 ?> Using clustered users' questions with Linear Classification Model will ensure TOP5 answers suggestion accuracy to be 50% or more.
 
